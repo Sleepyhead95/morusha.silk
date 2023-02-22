@@ -1,0 +1,11 @@
+/* Webfont: CigraFREEDEMO-Regular */@font-face {
+    font-family: 'Cigra-FREEDEMO';
+    src: url('Cigra Free Demo.eot'); /* IE9 Compat Modes */
+    src: url('Cigra Free Demo.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('Cigra Free Demo.woff') format('woff'), /* Modern Browsers */
+         url('Cigra Free Demo.ttf') format('truetype'); /* Safari, Android, iOS */
+             font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+
