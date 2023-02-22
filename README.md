@@ -6,6 +6,7 @@ Morusha Silk is a home page for a made-up fashion brand that deals in hand-paint
 - The Flexbox Model
 - CSS Grid
 - Working with relative measurements
+- Media queries
 - Button hovers/ hovers
 
 ## Contributing
