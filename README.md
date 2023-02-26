@@ -2,6 +2,8 @@
 
 Morusha Silk is a home page for a made-up fashion brand that deals in hand-painted silk items. This project was part of a Codecademy course on Front-End Engineering that I am currently taking. The idea was to create a responsive home page for any business with a nav bar, a section with what the business offers, and a section that introduces those who work in the company. 
 
+https://sleepyhead95.github.io/morusha.silk/
+
 ## Skills I learned
 - The Flexbox Model
 - CSS Grid
