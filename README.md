@@ -4,6 +4,9 @@ Morusha Silk is a home page for a made-up fashion brand that deals in hand-paint
 
 https://sleepyhead95.github.io/morusha.silk/
 
+## Utilized
+[![My Skills](https://skillicons.dev/icons?i=html,css,ps,vscode)](https://skillicons.dev)
+
 ## Skills I learned
 - The Flexbox Model
 - CSS Grid
