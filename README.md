@@ -25,3 +25,6 @@ Please make sure to update tests as appropriate.
 
 The main typeface used in this project is called 'Cigra,' and it is NOT a free font for commercial purposes. Please, do not copy it from my project and use it for commercial purposes.
 The author of the font is called 'Identitype' and you can find the font here: https://befonts.com/cigra-serif-font-demo.html
+
+## License
+MIT License
